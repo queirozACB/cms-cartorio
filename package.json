@@ -2,6 +2,9 @@
   "name": "cms-cartorio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+  "node": "20.x"
+},
   "description": "A Strapi application",
   "scripts": {
     "build": "strapi build",
